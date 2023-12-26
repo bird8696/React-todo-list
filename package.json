@@ -8,8 +8,9 @@
     "@testing-library/user-event": "^12.1.10",
     "bootstrap": "^4.5.3",
     "font-awesome": "^4.7.0",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1",
+    "react": "^18.3.0-canary-c5b937576-20231219",
+    "react-dom": "^18.3.0-canary-c5b937576-20231219",
+    "react-router-dom": "^6.21.1",
     "react-scripts": "^5.0.1",
     "reactstrap": "^8.8.0",
     "web-vitals": "^0.2.4"
